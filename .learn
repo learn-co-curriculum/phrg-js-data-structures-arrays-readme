@@ -5,3 +5,5 @@ languages:
   - javascript
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-data-structures-arrays-readme.git
